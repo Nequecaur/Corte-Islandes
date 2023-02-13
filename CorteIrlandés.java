@@ -37,7 +37,9 @@
 public class CorteIrlandés{
 
 
-
+public static void main(String[] args) {
+    
+}
 
 
 }
